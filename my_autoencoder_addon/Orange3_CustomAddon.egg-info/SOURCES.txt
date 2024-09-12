@@ -1,0 +1,12 @@
+MANIFEST.in
+README.md
+setup.py
+Orange3_CustomAddon.egg-info/PKG-INFO
+Orange3_CustomAddon.egg-info/SOURCES.txt
+Orange3_CustomAddon.egg-info/dependency_links.txt
+Orange3_CustomAddon.egg-info/entry_points.txt
+Orange3_CustomAddon.egg-info/requires.txt
+Orange3_CustomAddon.egg-info/top_level.txt
+orangecontrib/customaddon/widgets/widget_icons/Autoencoder.svg
+orangecontrib/customaddon/widgets/widget_icons/Classifier.svg
+orangecontrib/customaddon/widgets/widget_icons/Preprocessing.svg

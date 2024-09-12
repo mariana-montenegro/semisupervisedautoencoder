@@ -1,0 +1,7 @@
+Orange3
+numpy
+pandas
+scikit-learn
+tensorflow
+matplotlib
+seaborn

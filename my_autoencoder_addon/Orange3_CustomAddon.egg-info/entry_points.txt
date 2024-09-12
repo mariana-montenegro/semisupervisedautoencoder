@@ -1,0 +1,5 @@
+[orange.canvas.help]
+html-index = orangecontrib.customaddon.widgets:WIDGET_HELP_PATH
+
+[orange.widgets]
+CustomAddon = orangecontrib.customaddon.widgets

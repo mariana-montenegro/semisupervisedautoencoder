@@ -1,0 +1,2 @@
+include README.md
+include orangecontrib/customaddon/widgets/widget_icons/*.svg
